@@ -1,5 +1,3 @@
-Basically, the state space is way too large and I had to discretise them and make it smaller to fit into a reasonably size Qtable
-
 So, these are the parameters of the state [pot, combo, street, opp_actions]
 
 Pot:
